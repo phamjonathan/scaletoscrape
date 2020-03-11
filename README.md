@@ -5,7 +5,7 @@
 In this assignment, we are creating an application that allows users to view and leave comments on articles that we scraped from an URL. 
 
 # System Build Foundation
-
+## Packages
 * Express
 * Express-Handlebars
 * Mongo
@@ -13,15 +13,19 @@ In this assignment, we are creating an application that allows users to view and
 * Cheerio
 * Axios
 * Morgan
+
+## Localhost
+## Deployment
 * Heroku
 
 ## Things to note:
-Heroku Deployment is not active
+Heroku Deployment is not active:
+
 
 # Acknowledgements:
 
 ## Lukas Blazek
-I used this wallpaper for the theme of my scaletoscrape assignment, thanks! Check him out https://unsplash.com/photos/EWDvHNNfUmQ
+Big thanks, to Lukas for sharing this beautiful wallpaper that I used for my scaletoscrape assignment. The link to the photo is here :) https://unsplash.com/photos/EWDvHNNfUmQ
 
 
 # Screenshots
